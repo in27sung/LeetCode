@@ -3,7 +3,7 @@ name: Sync Leetcode
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 8 * * *" # 매일 오전 8시
+    - cron: "0 8 * * *" # Every day at 8 AM
 
 jobs:
   build:
@@ -16,6 +16,6 @@ jobs:
           github-token: ${{ github.token }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
           leetcode-session: ${{ secrets.LEETCODE_SESSION }}
-          destination-folder: leetcode-submissions
+          destination-folder: submissions
           verbose: true
           commit-header: "[LeetCode Sync]"
