@@ -21,6 +21,3 @@ class Solution:
             result %= MOD
         
         return result
-        
-
-        
