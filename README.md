@@ -1,51 +1,8 @@
-To complement your study of Introduction to Algorithms (CLRS), here’s a list of LeetCode problems organised by topics covered in the book:
+# Leetcode
 
-1. Sorting and Order Statistics
-	•	Merge Sort, Quick Sort, Heap Sort
-	•	Sort Colors
-	•	Kth Largest Element in an Array
-	•	Counting Sort, Radix Sort
-	•	Maximum Gap
-
-2. Divide and Conquer
-	•	Merge Intervals
-	•	Search in Rotated Sorted Array
-	•	Closest Binary Search Tree Value II
-
-3. Dynamic Programming
-	•	Climbing Stairs
-	•	Longest Increasing Subsequence
-	•	Word Break
-	•	House Robber
-
-4. Greedy Algorithms
-	•	Jump Game
-	•	Gas Station
-	•	Minimum Number of Arrows to Burst Balloons
-
-5. Graph Algorithms
-	•	Number of Connected Components in an Undirected Graph
-	•	Course Schedule
-	•	Network Delay Time
-
-6. Searching and Graph Traversal
-	•	Word Ladder
-	•	Clone Graph
-	•	Find if Path Exists in Graph
-
-7. Tree and Binary Search Tree Algorithms
-	•	Binary Tree Inorder Traversal
-	•	Balanced Binary Tree
-	•	Lowest Common Ancestor of a Binary Search Tree
-
-8. Backtracking
-	•	Permutations
-	•	Combination Sum
-	•	Subsets
-
-9. String Matching and Parsing
-	•	Longest Substring Without Repeating Characters
-	•	Valid Anagram
-	•	Palindrome Partitioning
-
-These problems correspond to key concepts introduced in CLRS, and solving them will deepen your understanding of algorithmic design and analysis. Let me know if you need more specific guidance on any problem!
+|#|Title|Solution|Difficulty|
+|-|-----|--------|----------|
+|2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/)|Java|Easy|
+|2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|Java, Python|Easy|
+|1524|[Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/)|Python|Medium|
+|0147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/)|Python|Medium|
