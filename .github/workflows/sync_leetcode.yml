@@ -3,7 +3,7 @@ name: Sync Leetcode
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 9 * * *"  # 매일 09:00 UTC (한국 시간 18:00)
+    - cron: "*/10 * * * *"  # 매 10분마다 실행
 
 jobs:
   build:
