@@ -13,3 +13,4 @@
 |2877|[Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/description/)|[Pandas](/submissions/2877-create-a-dataframe-from-list/solution.py)|🟢 Easy|
 |2878|[Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/description/)|[Pandas](/submissions/2878-get-the-size-of-a-dataframe/solution.py)|🟢 Easy|
 |2879|[Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/)|[Pandas](/submissions/2879-display-the-first-three-rows/solution.py)|🟢 Easy|
+|2880|[Select Data](https://leetcode.com/problems/select-data/description/)|[Pandas](/submissions/2880-select-data/solution.py)|🟢 Easy|
