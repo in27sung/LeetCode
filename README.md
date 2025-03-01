@@ -15,3 +15,4 @@
 |2879|[Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/)|[Pandas](/submissions/2879-display-the-first-three-rows/solution.py)|🟢 Easy|
 |2880|[Select Data](https://leetcode.com/problems/select-data/description/)|[Pandas](/submissions/2880-select-data/solution.py)|🟢 Easy|
 |2881|[Create a New Column](https://leetcode.com/problems/create-a-new-column/description/)|[Pandas](/submissions/2881-create-a-new-column)|🟢 Easy|
+|2886|[Change Data Type](https://leetcode.com/problems/change-data-type/description/)|[Pandas](/submissions/2886-change-data-type/solution.py)|🟢 Easy|
