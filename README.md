@@ -23,5 +23,6 @@
 |2884|[Modify Columns](https://leetcode.com/problems/modify-columns/description/)|[Pandas](https://github.com/in27sung/LeetCode/blob/main/submissions/2884-modify-columns/solution.py)|🟢 Easy|
 |2885|[Rename Columns](https://leetcode.com/problems/rename-columns/description/)|[Pandas](/submissions/2885-rename-columns/solution.py)|🟢 Easy|
 |2886|[Change Data Type](https://leetcode.com/problems/change-data-type/description/)|[Pandas](/submissions/2886-change-data-type/solution.py)|🟢 Easy|
+|2887|[Fill Missing Data](https://leetcode.com/problems/fill-missing-data/description/)|[Pandas](/submissions/2887-fill-missing-data)|🟢 Easy|
 |2888|[Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/description/)|[Pandas](/submissions/2888-reshape-data-concatenate/solution.py)|🟢 Easy|
 |2889|[Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot/description/)|[Pandas](/submissions/2889-reshape-data-pivot/solution.py)|🟢 Easy|
