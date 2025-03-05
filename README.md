@@ -10,7 +10,7 @@
 |1524|[Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/)|[Python](/submissions/1524-number-of-sub-arrays-with-odd-sum/solution.py)|🟠 Medium|
 |1749|[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/)|[Python](/submissions/1749-maximum-absolute-sum-of-any-subarray/solution.py)|🟠 Medium|
 |2161|[Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/)|[Python](/submissions/2161-partition-array-according-to-given-pivot/solution.py)|🟠 Medium|
-|2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[Java](/submissions/2235-add-two-integers/solution.java), Python|🟢 Easy|
+|2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[Java](/submissions/2235-add-two-integers/solution.java), [Python](/submissions/2235-add-two-integers/solution.py)|🟢 Easy|
 |2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/)|Java|🟢 Easy|
 |2460|[Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/)|[Python](/submissions/2460-apply-operations-to-an-array/solution.py)|🟢 Easy|
 |2570|[Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/)|[Python](/submissions/2570-merge-two-2d-arrays-by-summing-values/solution.py)|🟢 Easy|
