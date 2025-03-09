@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
       - name: Sync
         uses: joshcai/leetcode-sync@v1.7
         with:
@@ -19,3 +22,4 @@ jobs:
           destination-folder: submissions
           verbose: true
           commit-header: "[LeetCode Sync]"
+          filter-duplicate-secs: 86400
