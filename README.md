@@ -29,3 +29,4 @@
 |2889|[Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot/description/)|[Pandas](/submissions/2889-reshape-data-pivot/solution.py)|🟢 Easy|
 |2890|[Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/description/)|[Pandas](/submissions/2890-reshape-data-melt/solution.py)|🟢 Easy|
 |2891|[Method Chaining](https://leetcode.com/problems/method-chaining/description/)|[Pandas](/submissions/2891-method-chaining/solution.py)|🟢 Easy|
+|2965|[Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description/)|[Python](/submissions/2965-find-missing-and-repeated-values/solution.py)|🟢 Easy|
