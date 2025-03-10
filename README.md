@@ -4,7 +4,7 @@
 |-|-----|--------|----------|
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[Python](/submissions/0001-two-sum/solution.py)|🟢 Easy|
 |0147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/)|[Python](/submissions/0147-insertion-sort-list/solution.py)|🟠 Medium|
-|0595|[]Big Countries](https://leetcode.com/problems/big-countries/)|[Pandas](/submissions/0595-big-countries/solution.py)[Oracle](/submissions/0595-big-countries/solution.sql)|🟢 Easy|
+|0595|[Big Countries](https://leetcode.com/problems/big-countries/)|[Pandas](/submissions/0595-big-countries/solution.py)[Oracle](/submissions/0595-big-countries/solution.sql)|🟢 Easy|
 |0873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/)|[Python](/submissions/0873-length-of-longest-fibonacci-subsequence/solution.py)|🟠 Medium|
 |1092|[Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/)|[Python](submissions/1092-shortest-common-supersequence/solution.py)|🔴 Hard|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)|[Java](/submissions/1480-running-sum-of-1d-array/solution.java)|🟢 Easy|
