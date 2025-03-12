@@ -13,7 +13,7 @@
 |1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/)|[Oracle](/submissions/1757-recyclable-and-low-fat-products/solution.sql), [Pandas](/submissions/1757-recyclable-and-low-fat-products/solution.py)|🟢 Easy|
 |2161|[Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/)|[Python](/submissions/2161-partition-array-according-to-given-pivot/solution.py)|🟠 Medium|
 |2235|[Add Two Integers](https://leetcode.com/problems/add-two-integers/)|[Java](/submissions/2235-add-two-integers/solution.java), [Python](/submissions/2235-add-two-integers/solution.py)|🟢 Easy|
-|2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/)|Java|🟢 Easy|
+|2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/)|Java[/submissions/2236-root-equals-sum-of-children/solution.java]|🟢 Easy|
 |2460|[Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/)|[Python](/submissions/2460-apply-operations-to-an-array/solution.py)|🟢 Easy|
 |2523|[Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/description/)|[Python](/submissions/2523-closest-prime-numbers-in-range/solution.py)|🟠 Medium|
 |2570|[Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/)|[Python](/submissions/2570-merge-two-2d-arrays-by-summing-values/solution.py)|🟢 Easy|
