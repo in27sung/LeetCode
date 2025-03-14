@@ -9,7 +9,7 @@
 |1092|[Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/)|[Python](submissions/1092-shortest-common-supersequence/solution.py)|🔴 Hard|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)|[Java](/submissions/1480-running-sum-of-1d-array/solution.java)|🟢 Easy|
 |1524|[Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/)|[Python](/submissions/1524-number-of-sub-arrays-with-odd-sum/solution.py)|🟠 Medium|
-|1683|[Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/)|[Pandas](/submissions/1683-invalid-tweets/solution.py), [Oracle](/submissions/1683-invalid-tweets/solution.sql)|🟢 Easy|
+|1683|[Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/)|[Oracle](/submissions/1683-invalid-tweets/solution.sql), [Pandas](/submissions/1683-invalid-tweets/solution.py)|🟢 Easy|
 |1749|[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/)|[Python](/submissions/1749-maximum-absolute-sum-of-any-subarray/solution.py)|🟠 Medium|
 |1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/)|[Oracle](/submissions/1757-recyclable-and-low-fat-products/solution.sql), [Pandas](/submissions/1757-recyclable-and-low-fat-products/solution.py)|🟢 Easy|
 |2161|[Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/)|[Python](/submissions/2161-partition-array-according-to-given-pivot/solution.py)|🟠 Medium|
