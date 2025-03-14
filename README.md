@@ -7,6 +7,7 @@
 |0595|[Big Countries](https://leetcode.com/problems/big-countries/)|[Oracle](/submissions/0595-big-countries/solution.sql), [Pandas](/submissions/0595-big-countries/solution.py)|🟢 Easy|
 |0873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/)|[Python](/submissions/0873-length-of-longest-fibonacci-subsequence/solution.py)|🟠 Medium|
 |1092|[Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/description/)|[Python](submissions/1092-shortest-common-supersequence/solution.py)|🔴 Hard|
+|1148|[Article Views I](https://leetcode.com/problems/article-views-i/description/)|[Oracle](/submissions/1148-article-views-i/solution.sql)[Pandas](/submissions/1148-article-views-i/solution.py)|🟢 Easy|
 |1358|[Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)|[Python](/submissions/1358-number-of-substrings-containing-all-three-characters/solution.py)|🟠 Medium|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)|[Java](/submissions/1480-running-sum-of-1d-array/solution.java)|🟢 Easy|
 |1524|[Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/description/)|[Python](/submissions/1524-number-of-sub-arrays-with-odd-sum/solution.py)|🟠 Medium|
