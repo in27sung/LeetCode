@@ -16,6 +16,7 @@
 |2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/)|[Java](/submissions/2236-root-equals-sum-of-children/solution.java)|🟢 Easy|
 |2460|[Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/)|[Python](/submissions/2460-apply-operations-to-an-array/solution.py)|🟢 Easy|
 |2523|[Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/description/)|[Python](/submissions/2523-closest-prime-numbers-in-range/solution.py)|🟠 Medium|
+|2529|[Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/)|[Python](/submissions/2529-maximum-count-of-positive-integer-and-negative-integer/solution.py)|🟢 Easy|
 |2570|[Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/)|[Python](/submissions/2570-merge-two-2d-arrays-by-summing-values/solution.py)|🟢 Easy|
 |2877|[Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/description/)|[Pandas](/submissions/2877-create-a-dataframe-from-list/solution.py)|🟢 Easy|
 |2878|[Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/description/)|[Pandas](/submissions/2878-get-the-size-of-a-dataframe/solution.py)|🟢 Easy|
