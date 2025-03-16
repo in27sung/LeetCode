@@ -24,6 +24,7 @@
 |2523|[Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/description/)|[Python](/submissions/2523-closest-prime-numbers-in-range/solution.py)|🟠 Medium|
 |2529|[Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/)|[Python](/submissions/2529-maximum-count-of-positive-integer-and-negative-integer/solution.py)|🟢 Easy|
 |2570|[Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/)|[Python](/submissions/2570-merge-two-2d-arrays-by-summing-values/solution.py)|🟢 Easy|
+|2594|[Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/description/)|[Python](/submissions/2594-minimum-time-to-repair-cars/solution.py)|🟠 Medium|
 |2877|[Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/description/)|[Pandas](/submissions/2877-create-a-dataframe-from-list/solution.py)|🟢 Easy|
 |2878|[Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/description/)|[Pandas](/submissions/2878-get-the-size-of-a-dataframe/solution.py)|🟢 Easy|
 |2879|[Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/description/)|[Pandas](/submissions/2879-display-the-first-three-rows/solution.py)|🟢 Easy|
