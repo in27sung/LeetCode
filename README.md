@@ -43,5 +43,6 @@
 |2890|[Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/description/)|[Pandas](/submissions/2890-reshape-data-melt/solution.py)|🟢 Easy|
 |2891|[Method Chaining](https://leetcode.com/problems/method-chaining/description/)|[Pandas](/submissions/2891-method-chaining/solution.py)|🟢 Easy|
 |2965|[Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/description/)|[Python](/submissions/2965-find-missing-and-repeated-values/solution.py)|🟢 Easy|
+|3191|[Minimum Operations to Make Binary Array Elements Equal to One I](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/)|[Python](/submissions/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/solution.py)|🟠 Medium|
 |3306|[Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/description/)|[Python](/submissions/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii/solution.py)|🟠 Medium|
 |3356|[Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/description/)|[Python](/submissions/3356-zero-array-transformation-ii/solution.py)|🟠 Medium|
