@@ -6,6 +6,7 @@
 |0147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/)|[Python](/submissions/0147-insertion-sort-list/solution.py)|🟠 Medium|
 |0176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/description/)|[Oracle](/submissions/0176-second-highest-salary/solution.sql), [Pandas](/submissions/0176-second-highest-salary/solution.py)|🟠 Medium|
 |0177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/description/?envType=study-plan-v2&envId=30-days-of-pandas&lang=pythondata)|[Oracle](/submissions/0177-nth-highest-salary/solution.sql), [Pandas](/submissions/0177-nth-highest-salary/solution.py)|🟠 Medium|
+|0178|[Rank Scores](https://leetcode.com/problems/rank-scores/description/)|[Oracle](/submissions/0178-rank-scores/solution.sql), [Pandas](/submissions/0178-rank-scores/solution.py)|🟠 Medium|
 |0183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/description/)|[Oracle](/submissions/0183-customers-who-never-order/solution.sql), [Pandas](/submissions/0183-customers-who-never-order/solution.py)|🟢 Easy|
 |0595|[Big Countries](https://leetcode.com/problems/big-countries/)|[Oracle](/submissions/0595-big-countries/solution.sql), [Pandas](/submissions/0595-big-countries/solution.py)|🟢 Easy|
 |0873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/)|[Python](/submissions/0873-length-of-longest-fibonacci-subsequence/solution.py)|🟠 Medium|
